@@ -16,7 +16,7 @@ graphql-core==2.3.2
 graphql-relay==2.0.1
 idna==2.9
 natsort==7.0.1
-pipenv==2018.11.26
+pipenv==2022.1.8
 promise==2.3
 python-dateutil==2.8.1
 pytz==2020.1
